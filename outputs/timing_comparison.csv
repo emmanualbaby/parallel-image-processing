@@ -1,0 +1,4 @@
+Method,Median execution time (seconds),Image size
+Serial pixel-by-pixel,1.241583,1200x800
+Vectorized NumPy,0.029179,1200x800
+Speed-up (serial / vectorized),42.55x,1200x800
